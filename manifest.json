@@ -3,9 +3,15 @@
   "name": "React-Typescript_Weather-App",
   "icons": [
     {
+     "src": "images/maskable_icon_x192.png", 
+     "type": "image/png", 
+     "sizes": "192x192", 
+     "purpose": "maskable"
+    },
+    {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "../src/assets/icons/pwa"
+      "type": "image/png"
     },
     {
       "src": "cloudy192.png",

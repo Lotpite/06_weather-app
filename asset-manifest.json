@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/06_weather-app/static/js/main.467c6802.js",
+    "static/media/barometer.png": "/06_weather-app/static/media/barometer.c4d5cc70764ae7bc89d9.png",
+    "static/media/thunderstorm.png": "/06_weather-app/static/media/thunderstorm.58b496271a1c11956ab1.png",
+    "static/media/snow.png": "/06_weather-app/static/media/snow.d7b69ea9f309af2098ba.png",
+    "static/media/clouds.png": "/06_weather-app/static/media/clouds.bbb9db0737438a063567.png",
+    "static/media/termometer.png": "/06_weather-app/static/media/termometer.cdab1258846d8fcd983b.png",
+    "static/media/rain.png": "/06_weather-app/static/media/rain.2414d5c902a15b0bbbea.png",
+    "static/media/humidity.png": "/06_weather-app/static/media/humidity.48592fe82307b21f9631.png",
+    "static/media/rainsun.png": "/06_weather-app/static/media/rainsun.32cc43c0aaeab30ae9e4.png",
+    "static/media/cloudsun.png": "/06_weather-app/static/media/cloudsun.16fae24645bb63465f36.png",
+    "static/media/wind.png": "/06_weather-app/static/media/wind.c09ac22a457b3dca0314.png",
+    "static/media/sunrise.png": "/06_weather-app/static/media/sunrise.0248859f0fe99455222d.png",
+    "static/media/cloud.png": "/06_weather-app/static/media/cloud.7f4883f229ffd42aa6aa.png",
+    "static/media/min.png": "/06_weather-app/static/media/min.e3a98fa2d86085aebe7e.png",
+    "static/media/max.png": "/06_weather-app/static/media/max.02f42654cff6c3686fe1.png",
+    "index.html": "/06_weather-app/index.html",
+    "main.467c6802.js.map": "/06_weather-app/static/js/main.467c6802.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.467c6802.js"
+  ]
+}

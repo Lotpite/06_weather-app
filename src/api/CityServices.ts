@@ -15,7 +15,7 @@ const options = {
         const result = await axios.get(`${cityUrl}?namePrefix=${cityName}`, options)
         return result.data;
     } catch (e: any) {
-        alert(e.response.data.message);
+        alert(`${e.response.data.message}. Try again after 3 seconds`);
     }
         
   }

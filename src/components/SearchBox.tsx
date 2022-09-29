@@ -40,7 +40,7 @@ const SearchBox:FC<ISearchProps> = ({query, setQuery, setCity}) => {
   }
 
   const debouncedChangeHandler = useMemo(
-    () => debounce(changeHandler, 500)
+    () => debounce(changeHandler, 1000)
   , []);
 
   const submitHandler = (event: React.FormEvent) => {
